@@ -5,13 +5,18 @@
         "github": "cgentemann"
     },
     {
+        "name": "Daniele Ciani",
+        "organization": "CNR-ISMAR",
+        "github": "dcianicnr83"
+    },
+    {
         "name": "James Munroe",
         "organization": "Memorial University of Newfoundland",
         "github": "jmunroe"
-    },
+    }
       {
         "name": "Edward Armstrong",
         "organization": "NASA JPL PO.DAAC / CalTech ",
         "github": "edshred2000"
-    },
+    }
 ]
